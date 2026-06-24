@@ -2,7 +2,7 @@
 
 ### Programme d'entraînement intensif — 10 semaines
 
-*Spécialement préparé pour toi, **Alexandre**, avant ton entrée en **Bachelor 1 Cybersécurité, IA & Dév** (IPSSI) en septembre. 🎯*
+*Spécialement préparé pour toi, **Alexandre**, avant ton entrée en **Bachelor 1 Cybersécurité, IA & Dév** en septembre. 🎯*
 
 > *« Premier sang. » C'est l'entraînement avant le vrai combat : on te met en jambes sur TOUTES les bases du métier pour que tu débarques opérationnel.* 🥷💻
 
